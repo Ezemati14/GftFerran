@@ -1,0 +1,11 @@
+C:\Formacion\BancaWebApiFormacion\Banca.Domain\bin\Debug\net7.0\Banca.Domain.deps.json
+C:\Formacion\BancaWebApiFormacion\Banca.Domain\bin\Debug\net7.0\Banca.Domain.dll
+C:\Formacion\BancaWebApiFormacion\Banca.Domain\bin\Debug\net7.0\Banca.Domain.pdb
+C:\Formacion\BancaWebApiFormacion\Banca.Domain\obj\Debug\net7.0\Banca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formacion\BancaWebApiFormacion\Banca.Domain\obj\Debug\net7.0\Banca.Domain.AssemblyInfoInputs.cache
+C:\Formacion\BancaWebApiFormacion\Banca.Domain\obj\Debug\net7.0\Banca.Domain.AssemblyInfo.cs
+C:\Formacion\BancaWebApiFormacion\Banca.Domain\obj\Debug\net7.0\Banca.Domain.csproj.CoreCompileInputs.cache
+C:\Formacion\BancaWebApiFormacion\Banca.Domain\obj\Debug\net7.0\Banca.Domain.dll
+C:\Formacion\BancaWebApiFormacion\Banca.Domain\obj\Debug\net7.0\refint\Banca.Domain.dll
+C:\Formacion\BancaWebApiFormacion\Banca.Domain\obj\Debug\net7.0\Banca.Domain.pdb
+C:\Formacion\BancaWebApiFormacion\Banca.Domain\obj\Debug\net7.0\ref\Banca.Domain.dll

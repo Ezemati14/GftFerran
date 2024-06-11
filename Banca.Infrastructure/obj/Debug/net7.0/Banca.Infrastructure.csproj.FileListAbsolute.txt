@@ -1,0 +1,12 @@
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\bin\Debug\net7.0\Banca.Infrastructure.deps.json
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\bin\Debug\net7.0\Banca.Infrastructure.dll
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\bin\Debug\net7.0\Banca.Infrastructure.pdb
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\obj\Debug\net7.0\Banca.Infrastructure.csproj.AssemblyReference.cache
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\obj\Debug\net7.0\Banca.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\obj\Debug\net7.0\Banca.Infrastructure.AssemblyInfoInputs.cache
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\obj\Debug\net7.0\Banca.Infrastructure.AssemblyInfo.cs
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\obj\Debug\net7.0\Banca.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\obj\Debug\net7.0\Banca.Infrastructure.dll
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\obj\Debug\net7.0\refint\Banca.Infrastructure.dll
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\obj\Debug\net7.0\Banca.Infrastructure.pdb
+C:\Formacion\BancaWebApiFormacion\Banca.Infrastructure\obj\Debug\net7.0\ref\Banca.Infrastructure.dll
